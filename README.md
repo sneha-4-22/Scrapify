@@ -16,7 +16,7 @@ The web scraping project allows users to scrape data from websites using Browser
 
 - **Node.js**: Backend runtime environment
 - **Puppeteer**: Headless Chrome Node.js API for controlling browsers
-- **HTML/CSS/JavaScript**: Frontend for displaying scraped data (optional)
+- **Browserless**
 
 ## Installation
 
