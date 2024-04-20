@@ -24,3 +24,19 @@ The web scraping project allows users to scrape data from websites using Browser
 
 ```bash
 git clone <repository_url>
+```
+2. Install dependencies:
+```bash
+   npm install
+```
+3. Run
+```bash
+node src/utils/puppetter.js
+```
+![image](https://github.com/sneha-4-22/Web_scrapper/assets/112711068/5f255249-f58d-4a62-b61e-f9789a9ec8eb)
+
+4. see the output.
+    ```bash
+   node src/scrape.js
+   ```
+![image](https://github.com/sneha-4-22/Web_scrapper/assets/112711068/b7c2fe53-313e-426f-a012-00705be16e81)
