@@ -1,4 +1,4 @@
-# Web Scraping Project
+# Scrapify
 
 This project is a simple web scraping tool designed to extract data from websites efficiently.
 
