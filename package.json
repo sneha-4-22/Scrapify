@@ -285,7 +285,7 @@
     "wrap-ansi": "^8.1.0",
     "wrap-ansi-cjs": "^7.0.0",
     "wrappy": "^1.0.2",
-    "ws": "^8.16.0",
+    "ws": "^8.17.1",
     "xhr": "^2.6.0",
     "xml-parse-from-string": "^1.0.1",
     "xml2js": "^0.5.0",
